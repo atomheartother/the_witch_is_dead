@@ -4,6 +4,8 @@
 
 _Transcribed by Sebastian Osborn, then reformatted by Todd Bradley_
 
+_Rebalanced by Liz_
+
 Once upon a time, there was a kind and wise and beautiful witch who lived in the forest with her familiars, and her life was peaceful and happy until a **FUCKING
 WITCH-HUNTER** broke into her cottage and dragged her out and **FUCKING MURDERED HER** and now she's **DEAD**.
 
@@ -22,19 +24,23 @@ QUICK (outpace, climb, evade)
 ```
 
 ## ROLL A D10 TO SEE WHAT YOU ARE
+You get base stats with each woodland animal.
 
 ```
- 1. FOX (C2 F2 S1 Q1)
- 2. CAT (C0 F1 S3 Q2)
- 3. TOAD (C1 F0 S2 Q1)
- 4. SPIDER (C2 F0 S3 Q1)
- 5. OWL (C3 F1 S1 Q2)
- 6. HARE (C0 F0 S2 Q3)
- 7. MAGPIE (C2 F1 S1 Q2)
- 8. CROW (C2 F1 S2 Q1)
- 9. DOG (C1 F3 S0 Q1)
-10. RAT (C1 F0 S2 Q2)
+ 1. FOX (C2 F0 S1 Q0)
+ 2. CAT (C0 F1 S2 Q0)
+ 3. TOAD (C0 F0 S1 Q1)
+ 4. SPIDER (C0 F0 S3 Q0)
+ 5. OWL (C1 F1 S0 Q1)
+ 6. HARE (C0 F0 S1 Q2)
+ 7. MAGPIE (C1 F1 S0 Q1)
+ 8. CROW (C2 F0 S0 Q1)
+ 9. DOG (C0 F2 S0 Q1)
+10. RAT (C1 F1 S1 Q0)
 ```
+
+## ALLOCATE 3 POINTS
+You get 3 points to spend on top of your base stats. Don't overthink it.
 
 ## YOUR WITCH TAUGHT YOU A SPELL (D10)
 
